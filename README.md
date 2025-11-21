@@ -13,7 +13,7 @@ This system uses **TensorFlow** and **OpenCV** to analyze video frames in real t
 ## 🔧 Features
 
 - Real-time pose estimation using deep learning  
-- Driver posture analysis at **5–10 FPS**  
+- Driver posture analysis at **5–8 FPS**  
 - Detection of unsafe/unwanted poses  
 - Feedback mechanism (alerts or logging)  
 - Lightweight and optimized for deployment on consumer hardware  
